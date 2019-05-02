@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Thanks for visting my Blog. I am a Bharath Sundar.I have a CS degree in engineering. I like to work with machine learning and related technologies.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+> ***Disclaimer:*** Everything in this blog is strictly my opinion. Noone else is responsible for my opinion.
 
 [jekyll-organization]: https://github.com/jekyll
